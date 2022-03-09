@@ -1,3 +1,7 @@
+# 한달간의 검색어 빅데이터를 이용한 분석
+# 카카오 트렌드 데이터 이용
+# '우물 안 개구리' 님의 블로그 글 인용하여 작성
+# ARIMA 분석
 # improt dataset 이용하여 불러오기
 library(readxl)
 forecast_President <- read_excel("forecast_President.xlsx", 
